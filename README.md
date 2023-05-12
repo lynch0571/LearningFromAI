@@ -1,0 +1,2 @@
+# LearningFromAI
+Embrace ChatGPT
